@@ -1,0 +1,31 @@
+# Build directory
+/build/
+/release/
+
+# User-specific files
+*.user
+*.suo
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Qt-specific files
+*_plugin_import.cpp
+.qmake.stash
+*.pro.user
+*.qbs.user
+
+# Executables
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Other
+.DS_Store
+
+# Log and temporary files
+*.log
+*.tmp
+*.temp
